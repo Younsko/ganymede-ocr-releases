@@ -1,10 +1,10 @@
 {
     "version":  "1.19.0",
     "notes":  "Ganymede OCR 1.19.0 with OCR updater channel.",
-    "pub_date":  "2026-07-03T23:40:13Z",
+    "pub_date":  "2026-07-03T23:42:44Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMncvVXhCcW5uY1RKTHVLTWFETEdFaU1VNGgyb1FoN1Z4QkY4SHpjUS9LUnVjMlgyV1NlcTFONW5QQm52ZWRkMmxZWGNyd3ErUU9NejB1VzJpcDdJMDV5Y2JwRGMwM1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTIxODI1CWZpbGU6R2FueW1lZGUtT0NSLTEuMTkuMC14NjQtc2V0dXAuZXhlCnpPVG91U29saldVaUhzbFZGdDBOUmJHNUJXY08wQWIrMk5kOCt2NUVYNnZnejliN0hkWWRtNlBCdGYyTUVLSGplam1mYlJZSkR4QW9wd0UwdW1VZ0RnPT0K",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMncvVXhCcW5uY1N6cmVBMnFIL1JwVmlMajBwMnlHZUlCNlZEUDFEYnhTZjUrM2plUlkyalRJUGsvbGxPNEY3Z1hqU2E1YUFqTDJLV3BJNjhrZlJNSm92dFhHS0x6MWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTIyMTUyCWZpbGU6R2FueW1lZGUtT0NSLTEuMTkuMC14NjQtc2V0dXAuZXhlCkV5R3c0aFZ3Nkdnb0J3UVJsQjVENUpnRTVwK2x4T3FneFBFa2lDc1N1eWxwU2FnT3NTK0dYZm5hVEpQbDNFL0pteGE4a0dScGZiNElUSHh2eWtnOUNRPT0K",
                                              "url":  "https://github.com/Younsko/ganymede-ocr-releases/releases/download/v1.19.0-ocr/Ganymede-OCR-1.19.0-x64-setup.exe"
                                          }
                   }
